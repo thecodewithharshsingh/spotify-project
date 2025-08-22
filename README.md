@@ -1,3 +1,3 @@
 # spotify-project
-where you can listen a song./n
+where you can listen a song.\n
 Author -Harsh Singh
